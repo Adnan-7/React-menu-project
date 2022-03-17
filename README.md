@@ -1,4 +1,4 @@
-## React-menu-project: [Demo](https://project-menu-react.netlify.app/)
+# React-menu-project: [Demo](https://project-menu-react.netlify.app/)
 
 # Getting Started with Create React App
 
